@@ -30,3 +30,10 @@ If it is a versus, the group need to level up to fight in a 3 vs 3 at level 20 i
 - Let's jungle fight with code
 
 In future version, you will be able to hook at websocket with a EEC to have the information of the Wow account on the computer.
+
+
+------------------------
+
+
+- Install some python script to skip level10:
+  - https://github.com/EloiStree/2023_12_26_WowBottingFromPython
