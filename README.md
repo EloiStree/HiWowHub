@@ -65,5 +65,7 @@ pip install pywin32
 pip3 install pyautogui
 pip3 install mido
 pip3 install keyboard
+pip install websocket
+
 
 
