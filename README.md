@@ -50,5 +50,9 @@ In future version, you will be able to hook at websocket with a EEC to have the 
   - Install VigEm Bus Driver: https://vigembusdriver.com/
   - Learn about XOMI: https://github.com/EloiStree/2022_01_24_XOMI
 - Install JOMI
-  - Install Java Robot : https://www.java.com/en/download/manual.jsp 
+  - Install Java Robot : https://www.java.com/en/download/manual.jsp
+- Install Generic remote: https://github.com/EloiStree/2024_05_14_IntegerIndexDateToRemoteControl.git
+- Install UDP2WindowMidi
+  - To code
+- For the background sound and debug: Install UDP2OfflineMordhau
 
