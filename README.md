@@ -34,8 +34,21 @@ In future version, you will be able to hook at websocket with a EEC to have the 
 
 ------------------------
 
-
+- Install Wow
+- Create a account
+- Skip the tutorial
+- Set the key input to
+- Q Left S Back Z Forward D Right W Strafe Left X Strafe Right  Space Jump/up  C Down   G Follow  F Interact  Y Pich Up  H Pitch Down
+- Install Git to clone the following tools
+  - https://git-scm.com/downloads/win
 - Install some python script to skip level10:
+  - https://www.python.org/downloads/ 
   - https://github.com/EloiStree/2023_12_26_WowBottingFromPython
 - Install Scratch to World of Warcraft
   - https://github.com/EloiStree/2024_08_29_ScratchToWarcraft.git 
+- Install XOMI:
+  - Install VigEm Bus Driver: https://vigembusdriver.com/
+  - Learn about XOMI: https://github.com/EloiStree/2022_01_24_XOMI
+- Install JOMI
+  - Install Java Robot : https://www.java.com/en/download/manual.jsp 
+
