@@ -56,3 +56,14 @@ In future version, you will be able to hook at websocket with a EEC to have the 
   - To code
 - For the background sound and debug: Install UDP2OfflineMordhau
 
+
+
+
+
+## Python List:
+pip install pywin32
+pip3 install pyautogui
+pip3 install mido
+pip3 install keyboard
+
+
