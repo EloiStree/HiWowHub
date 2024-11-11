@@ -45,7 +45,10 @@ In future version, you will be able to hook at websocket with a EEC to have the 
   - https://www.python.org/downloads/ 
   - https://github.com/EloiStree/2023_12_26_WowBottingFromPython
 - Install Scratch to World of Warcraft
-  - https://github.com/EloiStree/2024_08_29_ScratchToWarcraft.git 
+  - https://github.com/EloiStree/2024_08_29_ScratchToWarcraft.git
+    - UDP server
+    - Websocket Server
+    - Anti AFK 
 - Install XOMI:
   - Install VigEm Bus Driver: https://vigembusdriver.com/
   - Learn about XOMI: https://github.com/EloiStree/2022_01_24_XOMI
