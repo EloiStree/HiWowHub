@@ -37,3 +37,5 @@ In future version, you will be able to hook at websocket with a EEC to have the 
 
 - Install some python script to skip level10:
   - https://github.com/EloiStree/2023_12_26_WowBottingFromPython
+- Install Scratch to World of Warcraft
+  - https://github.com/EloiStree/2024_08_29_ScratchToWarcraft.git 
